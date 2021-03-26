@@ -346,7 +346,7 @@
       "address": "0x1d32916cfa6534d261ad53e2498ab95505bd2510",
       "symbol": "YOU",
       "decimals": 6,
-      "chainId": 3,
+      "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/amazingHuo/YouSwap/master/0x1d32916CFA6534D261AD53E2498AB95505bd2510.png"
     },
     {
