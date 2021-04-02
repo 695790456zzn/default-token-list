@@ -347,7 +347,7 @@
       "symbol": "YOU",
       "decimals": 6,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/amazingHuo/YouSwap/master/0x1d32916CFA6534D261AD53E2498AB95505bd2510.png"
+      "logoURI": "https://youswap.s3-ap-southeast-1.amazonaws.com/YouSwap/0x1d32916CFA6534D261AD53E2498AB95505bd2510.png"
     },
     {
       "name": "Dai Stablecoin",
